@@ -1,5 +1,5 @@
 # Semana-Omnistack-11
-Projeto desenvolvido na semana Omnistack 11 (Be the Hero)
+Projeto desenvolvido na Semana Omnistack 11 (Be The Hero)
 ## Tecnologias usadas
 - Node.js
 - ReactJS
