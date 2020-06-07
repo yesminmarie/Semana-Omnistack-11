@@ -6,4 +6,4 @@ O projeto “Be The Hero” foi desenvolvido durante a Semana Omnistack 11.0, um
 - React Native
 - Expo
 ## Screenshot da tela de login
-![Screenshot da tela inicial](https://github.com/yesminmarie/Semana-Omnistack-11/blob/master/screenshot/Screenshot-tela-inicial.png)
+![Screenshot da tela inicial](https://github.com/yesminmarie/ecoleta/blob/master/tela-inicial.png)
